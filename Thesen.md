@@ -8,7 +8,7 @@ Dazu haben wir sieben Thesen für eine Entwicklung zu einem nachhaltigen und bü
 
 ### 1.  Ziele vor Technik
 
-Neue Technologien werden eingesetzt, noch bevor sie vollständig verstanden wurden. Vielfältige Interessen beschleunigen den Trend zur Digitalisierung. Oft sind Geschäftsinteressen Vorreiter auf der Suche nach einem sich entwickelnden Markt. Wir verstehen Digitalisierung einer Stadt aber als Politikansatz. Die Entscheidung für neue Technologien und Prozesse muss den Nutzen für Bürgerinnen und Bürgern in den Vordergrund stellen. Um Gemeinwohlinteressen zu dienen und nicht Technologie um ihrer selbst Willen zu nutzen, sind klar definierte Ziele notwendig. Es ist nicht entscheidend, ob eine integrierte Strategie zuerst erarbeitet oder das Thema nach und nach erschlossen wird. Wichtig ist stattdessen die konsequente Orientierung an den Zielen der Stadtentwicklung. 
+Neue Technologien werden eingesetzt, noch bevor sie vollständig verstanden wurden. Vielfältige Interessen beschleunigen den Trend zur Digitalisierung. Oft sind Geschäftsinteressen Vorreiter auf der Suche nach einem sich entwickelnden Markt. Wir verstehen Digitalisierung einer Stadt aber als Politikansatz. Die Entscheidung für neue Technologien und Prozesse muss den Nutzen für Bürgerinnen und Bürger in den Vordergrund stellen. Um Gemeinwohlinteressen zu dienen und nicht Technologie um ihrer selbst Willen zu nutzen, sind klar definierte Ziele notwendig. Es ist nicht entscheidend, ob eine integrierte Strategie zuerst erarbeitet oder das Thema nach und nach erschlossen wird. Wichtig ist stattdessen die konsequente Orientierung an den Zielen der Stadtentwicklung. 
 
 Wir müssen Abhängigkeiten von Technologie- oder Service-Anbietern vermeiden. Digitale Prozesse müssen angepasst, verbessert oder aufgehoben werden können. Anbieter von Technologien und Leistungen müssen ersetzbar sein. Die Stadt braucht hierfür insbesondere ausreichend eigenes digital kompetentes Personal.   
 
@@ -20,7 +20,7 @@ Der technologische Wandel erzeugt Digital Natives und Digital Outsiders. Deshalb
 
 ### 3. Offene Standards in Technik und Governance
 
-Offene Standards verringern nicht nur Abhängigkeiten von digitalen „Insellösungen“, welche teuer und schwer zu ersetzen sind, sondern ermöglichen es erstmals auch bislang unabhängige Themengebiete zu vernetzen und somit vollkommen neue Ideen und Innovationen auszuprobieren und umzusetzen. Offene Standards ermöglichen darüber hinaus die Beteiligung und Kooperation mit und zwischen Bürgerinnen und Bürgern, Unternehmen und anderen Kommunen. Auch Weiterentwicklung und Skalierung digitaler Lösungen sind hierdurch einfacher. Wo es möglich ist, sollten deshalb Datenformate und freie Software eingesetzt werden. Fehler lassen sich schneller erkennen und -vor allem- einfacher korrigieren. 
+Offene Standards verringern nicht nur Abhängigkeiten von digitalen „Insellösungen“, welche teuer und schwer zu ersetzen sind, sondern ermöglichen es erstmals auch bislang unabhängige Themengebiete zu vernetzen und somit vollkommen neue Ideen und Innovationen auszuprobieren und umzusetzen. Offene Standards ermöglichen darüber hinaus die Beteiligung und Kooperation mit und zwischen Bürgerinnen und Bürgern, Unternehmen und anderen Kommunen. Auch Weiterentwicklung und Skalierung digitaler Lösungen sind hierdurch einfacher. Wo es möglich ist, sollten deshalb offene Datenformate und freie Software eingesetzt werden. Fehler lassen sich schneller erkennen und -vor allem- einfacher korrigieren. 
 
 
 ### 4. Transparenz und Fehlerkultur
